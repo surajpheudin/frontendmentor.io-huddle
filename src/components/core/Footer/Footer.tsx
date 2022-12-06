@@ -2,7 +2,7 @@ import { FC } from "react";
 
 const Footer: FC = () => {
   return (
-    <div className="bg-veryDarkCyan py-20 text-gray-100">
+    <div className="bg-veryDarkCyan py-20 text-gray-100 pt-[150px]">
       <div className="container p-4 md:p-0">
         <img
           src="/images/logo.svg"
