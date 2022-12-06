@@ -11,7 +11,11 @@
   }
 
   body {
-    @apply font-normal font-body;
+    @apply font-normal font-body text-xs md:text-sm;
+  }
+
+  button {
+    @apply font-normal font-body text-xs md:text-sm;
   }
 }
 
