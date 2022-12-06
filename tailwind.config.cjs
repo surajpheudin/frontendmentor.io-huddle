@@ -35,6 +35,10 @@ module.exports = {
       xs: ["14px"],
       sm: ["16px"],
       md: ["18px"],
+      xl: ["20px"],
+      "2xl": ["24px"],
+      "3xl": ["28px"],
+      "4xl": ["32px"],
     },
     fontWeight: {
       normal: 400,
