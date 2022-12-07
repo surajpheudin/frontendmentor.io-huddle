@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here to see source code](https://github.com/surajpheudin/frontendmentor.io-huddle)
-- Live Site URL: [Click to visit live website](https://your-live-site-url.com)
+- Live Site URL: [Click to visit live website](https://frontendmentor-io-huddle.vercel.app)
 
 ## My process
 
